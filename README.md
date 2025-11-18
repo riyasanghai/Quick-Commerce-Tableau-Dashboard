@@ -1,2 +1,11 @@
 # Quick-Commerce-Tableau-Dashboard
-Built a Tableau dashboard comparing delivery performance, order volume, product categories, customer behaviour across Blinkit, JioMart and Swiggy Instamart.  Integrated filters and interactive charts for user-driven analysis. 
+
+A tableau dashboard data visualisation project analysing the performance of major quick commerce platforms. 
+The dashboard visualises and explores delivery speed, order volume, category trends, customer behavious and platform comparison. 
+
+Insights: 
+- All platforms show similar average delivery times.
+- Delayed ordered are highest in food and personal care categories.
+- Majority of users guve high ratings.
+
+  Tableau was used and excel for datacleaning. 
